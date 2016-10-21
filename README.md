@@ -26,6 +26,10 @@ Then you can install the dependencies.
 
 ```npm install --global gulp-cli```
 
+## Running
+
+```gulp serve```
+
 ## Contributing
 
 Please fork this repo and make it better.
